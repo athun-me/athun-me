@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Go, Data structur, linux, C, git**
+- 💬 Ask me about **Go, Data structures, linux, C, git**
 
 - 📫 How to reach me **athunlalp@gmail.com**
 

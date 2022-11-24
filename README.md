@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Athun lal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate GO Lang developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athunlal&label=Profile%20views&color=0e75b6&style=flat" alt="athunlal" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **react, mongoDB, java, C, javaScript**
+- 💬 Ask me about **Go, Data structur, linux, C, git**
 
 - 📫 How to reach me **athunlalp@gmail.com**
 

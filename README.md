@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 👨‍💻 All of my projects are available at [https://athunlal.github.io/Personal-web-site/](https://athunlal.github.io/Personal-web-site/)
+- 👨‍💻 All of my projects are available at [https://athunlal.github.io/Personal-web-site/](athun.me)
 
 - 💬 Ask me about **Go , Data Structures**
 

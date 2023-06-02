@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athun Lal</h1>
 <h3 align="center">A passionate GoLang developer from India</h3>
+<img align= "right" alt="golang" width="150" src = "https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athunlal&label=Profile%20views&color=0e75b6&style=flat" alt="athunlal" /> </p>
 

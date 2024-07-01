@@ -7,15 +7,12 @@
 </p>
 
 - 🌱 I’m currently working on [Sellerapp](https://github.com/athunsellerapp)
-
-- 🌱 Official github [https://github.com/athunsellerapp](https://github.com/athunsellerapp)
-
+- 🌱 Official github [github.com/athun-dev](https://github.com/athun-dev)
 - 👨‍💻 All of my projects are available at [https://athun.me/](https://athun.me/)
-
 - 📫 How to reach me **athunlalp@gmail.com**
 
+## Connect with me
 
-## Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/athunlal" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -23,7 +20,7 @@
 <a href="https://instagram.com/athun._" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/athunlal" target="_blank">
+<a href="https://github.com/athun-me" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/athunlal" target="_blank">
@@ -32,5 +29,4 @@
 <a href="https://dev.to/athunlal" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
